@@ -1,0 +1,3 @@
+Arrays must start with square brackets and it's content must use commas to separate items;
+
+Tuples starts with parenthesis;
